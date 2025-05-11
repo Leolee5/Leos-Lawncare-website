@@ -1,0 +1,16 @@
+
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+a:hover {
+    color: red;
+}
+button {
+    cursor: pointer;
+}
