@@ -1,0 +1,43 @@
+
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+header {
+    margin-bottom: 20px;
+}
+.logo {
+    width: 150px;
+    margin: 20px auto;
+}
+h1 {
+    color: red;
+}
+button {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+button:hover {
+    background-color: darkred;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+ul li {
+    margin: 5px 0;
+}
+form input, form textarea {
+    display: block;
+    margin: 10px auto;
+    width: 80%;
+    padding: 10px;
+}
